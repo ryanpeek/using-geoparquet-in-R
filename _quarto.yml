@@ -1,0 +1,16 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - using_geoparquet.qmd
+
+title: "Slides"
+author: "R. Peek"
+date: "2022-04-20"
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: superhero
