@@ -156,7 +156,7 @@ pull data from Bing buildings for CA (https://github.com/microsoft/USBuildingFoo
 [^note]: Also see the [{`sfarrow`}](https://wcjochem.github.io/sfarrow/index.html) package
 
 ::: {.column width="30%" .fragment}
-![](../img/flare_helix.png)
+![](img/flare_helix.png)
 :::
 :::
 
